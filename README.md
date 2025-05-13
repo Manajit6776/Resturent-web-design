@@ -4,11 +4,6 @@
 
 A visually appealing and responsive restaurant landing page built with HTML and CSS. This project showcases a modern design with promotional sections, featured services, and an interactive menu layout.
 
-## 📸 Demo
-
-![Restaurant Website Screenshot](images/hero_image.png)  
-> Replace with actual screenshots of your site if available.
-
 ---
 
 ## 🔥 Features
@@ -28,6 +23,4 @@ A visually appealing and responsive restaurant landing page built with HTML and 
 - **CSS3**
 
 ---
-
-## 📁 Folder Structure
 
